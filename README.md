@@ -24,7 +24,7 @@ The dataset contains variables (16598 rows x 11 columns) such us:
 ## Planning of the project
 
 + Check data errors, duplicates and missing values
-+ Aggregate data from 1980 to 2016 to gain insights into the historical patterns and changes over time
++ Aggregate data to gain insights into the historical patterns and changes over time
 + Join data if needed using extra files to enrich my analysis
 + Using 'calculate fields' to add furmulas to calculate the profit margin for each sale
 + Filter and group the data to show sales from a particular region by product category
