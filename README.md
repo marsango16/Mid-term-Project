@@ -23,10 +23,9 @@ The dataset contains variables (16598 rows x 11 columns) such us:
 
 ## Planning of the project
 
-+ Check data errors, duplicates and missing values
-+ Aggregate data to gain insights into the historical patterns and changes over time
++ Download the data set and make a general analysis of the information
++ Data preparation and cleaning, check data errors, duplicates and missing values with Jupyter Notebook
++ Insert data cleaned into Tableu and star exploring the data
 + Join data if needed using extra files to enrich my analysis
-+ Using 'calculate fields' to add furmulas to calculate the profit margin for each sale
-+ Filter and group the data to show sales from a particular region by product category
 
 To conclude, for this analysis project is to identify future trends in the gaming industry and communicate those insights to stakeholders through an informative dashboard in Tableau. 
