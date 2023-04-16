@@ -15,9 +15,9 @@ The dataset contains variables (16719 rows × 16 columns) such us:
 + Year of release
 + Genre
 + Publisher
-+ Sales in North America (in millions)
-+ Sales in Europe (in millions)
-+ Sales in Japan (in millions)
++ Sales in North America (Million of copies)
++ Sales in Europe (Million of copies)
++ Sales in Japan (Million of copies)
 + Other_Sales - Sales in the rest of the world (in millions)
 + Global_Sales - Total worldwide sales
 + Critic_Score
