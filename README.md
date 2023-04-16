@@ -18,7 +18,7 @@ The dataset contains variables (16719 rows × 16 columns) such us:
 + Sales in North America (Million of copies)
 + Sales in Europe (Million of copies)
 + Sales in Japan (Million of copies)
-+ Other_Sales - Sales in the rest of the world (in millions)
++ Other_Sales - Sales in the rest of the world
 + Global_Sales - Total worldwide sales
 + Critic_Score
 + Critic_Count
@@ -29,9 +29,9 @@ The dataset contains variables (16719 rows × 16 columns) such us:
 
 ## Planning of the project
 
-+ Download the dataset and perform a general analysis of the information.
++ Download the dataset and perform a general analysis of the information
 + Preparing and cleaning data, checking for errors, duplicates and missing values with Jupyter Notebook
-+ Insert the cleaned data into Tableu and start exploring the data by creating tables and graphs to visualise the results.
++ Insert the cleaned data into Tableu and start exploring the data by creating tables and graphs to visualise the results
 + Join data if necessary using additional files to enrich my analysis 
 
 To conclude, for this analysis project is to identify future trends in the gaming industry and communicate those insights to stakeholders through an informative dashboard in Tableau. 
