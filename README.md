@@ -34,7 +34,7 @@ The dataset contains variables (16719 rows × 16 columns) such us:
 + Insert the cleaned data into Tableu and start exploring the data by creating tables and graphs to visualise the results
 + Join data if necessary using additional files to enrich my analysis 
 
-## Target variables
+## My Target Variables
 
 + 5 Top Publishers worldwide
 + Best selling Genre on Platforms
