@@ -1,4 +1,4 @@
-# Gaming Industry: An Exploratory Analysis of Video Game Sales Data
+# An Exploratory Analysis of Video Game Sales Data
 
 ![ravi-palwe-1UEmcJaybts-unsplash](https://user-images.githubusercontent.com/125832348/232290960-6c1ed070-313e-471b-95d8-703090e253a2.jpg)
 Image by [Ravi Palwe](https://unsplash.com/es/fotos/1UEmcJaybts)
