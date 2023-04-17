@@ -28,7 +28,7 @@ The dataset contains 16719 rows × 16 columns divided into numerical and categor
 + Developer
 + Rating
 
-## Planning of the project
+## Time planning of the project
 ### Day 1
 + Download the dataset and perform a general analysis of the information
 + Break down my work into steps by answering a few questions: what do I want to communicate? what graphics do I need to communicate?
