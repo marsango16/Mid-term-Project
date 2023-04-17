@@ -12,9 +12,9 @@ The dataset contains 16719 rows × 16 columns divided into numerical and categor
 
 + Game's ranking
 + Name
-+ Platform (i.e. PC,PS4, etc.)
++ Platform (PC,PS4, etc.)
 + Year of release
-+ Genre
++ Genre/ category
 + Publisher
 + Sales in North America (Million of copies)
 + Sales in Europe (Million of copies)
