@@ -45,7 +45,7 @@ The dataset contains 16719 rows × 16 columns divided into numerical and categor
 
 + 5 Top Publishers worldwide
 + Best selling Genre on Platforms
-+ Top User Picks
++ Most recommended videogames made by gamers within a certain category
 + Top EU videogames sold 
 + Top Japan videogames sold 
 + Top USA videogames sold 
