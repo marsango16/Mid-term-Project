@@ -41,7 +41,7 @@ The dataset contains 16719 rows × 16 columns divided into numerical and categor
 + Best selling Genre on Platforms
 + Top User Picks
 + Top EU videogames sold 
-+ Top JP videogames sold 
-+ Top NA videogames sold 
++ Top Japan videogames sold 
++ Top USA videogames sold 
 
 To conclude, for this analysis project is to identify future trends in the gaming industry and communicate those insights to stakeholders through an informative and powerful dashboard in Tableau. 
