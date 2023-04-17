@@ -31,8 +31,8 @@ The dataset contains 16719 rows × 16 columns divided into numerical and categor
 ## Planning of the project
 ### Day 1
 + Download the dataset and perform a general analysis of the information
-+ Break my work down in steps answering some questions: what do I want to communicate? which graphics do I need for it?
-+ Exploting another data reports from other resources to add value to my analysis  
++ Break down my work into steps by answering a few questions: what do I want to communicate? what graphics do I need to communicate?
++ Explore other data reports from other resources to add value to my analysis
 
 ### Day 2
 + Preparing and cleaning data, checking for errors, duplicates and missing values with Jupyter Notebook
