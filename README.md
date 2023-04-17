@@ -39,8 +39,8 @@ The dataset contains variables (16719 rows × 16 columns) such us:
 + 5 Top Publishers worldwide
 + Best selling Genre on Platforms
 + Top User Picks
-+ Top EU Selling Videogames
-+ Top JP Selling Videogames
-+ Top NA Selling Videogames
++ Top EU videogames sold 
++ Top JP videogames sold 
++ Top NA videogames sold 
 
 To conclude, for this analysis project is to identify future trends in the gaming industry and communicate those insights to stakeholders through an informative and powerful dashboard in Tableau. 
