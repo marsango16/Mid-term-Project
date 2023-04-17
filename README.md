@@ -7,7 +7,7 @@ The goal of my **BI project** is to perform a comprehensive analysis of the vide
 
 The dataset includes information on video games that have sold at least 100,000 copies and can be downloaded from the Kaggle webpage provided. Through this analysis, I aim to gain insights into the video game industry and its market dynamics, identify key trends and pattern. 
 
-The dataset contains with 16719 rows × 16 columns divided into numerical and categorical variables: 
+The dataset contains 16719 rows × 16 columns divided into numerical and categorical variables: 
 
 + Game's ranking
 + Name
