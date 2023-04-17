@@ -34,12 +34,9 @@ The dataset contains 16719 rows × 16 columns divided into numerical and categor
 + Break down my work into steps by answering a few questions: what do I want to communicate? what graphics do I need to communicate?
 + Explore other data reports from other resources to add value to my analysis
 
-### Day 2
+### Day 2 & 3
 + Preparing and cleaning data, checking for errors, duplicates and missing values with Jupyter Notebook
 + Insert the cleaned data into Tableu and start exploring the data by creating tables and graphs to visualise the results
-
-### Day 3
-
 
 ## My target variables
 
