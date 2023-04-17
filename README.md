@@ -34,4 +34,4 @@ The dataset contains variables (16719 rows × 16 columns) such us:
 + Insert the cleaned data into Tableu and start exploring the data by creating tables and graphs to visualise the results
 + Join data if necessary using additional files to enrich my analysis 
 
-To conclude, for this analysis project is to identify future trends in the gaming industry and communicate those insights to stakeholders through an informative dashboard in Tableau. 
+To conclude, for this analysis project is to identify future trends in the gaming industry and communicate those insights to stakeholders through an informative and powerful dashboard in Tableau. 
