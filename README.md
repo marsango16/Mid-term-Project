@@ -29,11 +29,17 @@ The dataset contains 16719 rows × 16 columns divided into numerical and categor
 + Rating
 
 ## Planning of the project
-
+### Day 1
 + Download the dataset and perform a general analysis of the information
++ Break my work down in steps answering some questions: what do I want to communicate? which graphics do I need for it?
++ Exploting another data reports from other resources to add value to my analysis  
+
+### Day 2
 + Preparing and cleaning data, checking for errors, duplicates and missing values with Jupyter Notebook
 + Insert the cleaned data into Tableu and start exploring the data by creating tables and graphs to visualise the results
-+ Join data if necessary using additional files to enrich my analysis 
+
+### Day 3
+
 
 ## My target variables
 
