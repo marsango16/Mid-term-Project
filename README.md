@@ -47,6 +47,6 @@ The dataset contains 16719 rows × 16 columns divided into numerical and categor
 + Top Japan videogames sold 
 + Top USA videogames sold 
 + Genre by decade
-+ Publisher global sales by year from 1980 - 2020
++ Publisher global sales by year (1980 - 2020)
 
 To conclude, for this analysis project is to identify future trends in the gaming industry and communicate those insights to stakeholders through an informative and powerful dashboard in Tableau. 
