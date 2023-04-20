@@ -29,24 +29,19 @@ The dataset contains 16719 rows × 16 columns divided into numerical and categor
 + Rating
 
 ## Time planning of the project
-### Day 1
 + Download the dataset and perform a general analysis of the information
-+ Break down my work into steps by answering a few questions: what do I want to communicate? what graphics do I need to communicate?
-+ Explore other data reports from other resources to add value to my analysis
++ Define the target variables to find insights and future trends 
+  - Top 15 Publisher sales 2011-2015
+  - Total sales by publisher 2011-2015
+  - Top videogames in Europe 2011-2015
+  - Top 5 genre by sales in Europe 2011-2015
+  - Total videogames in Europe 1980-2016
+  - Total sales Europe 1980-2015
+  - Total sales Japan 1980-2015
+  - Total sales global 1980-2015
+  - Critic score by platform & total sales in Europe
+  - User count by platform 1980-2015
+  - Top 10 videogames by sales in EU 2005-2015
 
-### Day 2 & 3
-+ Preparing and cleaning data, checking for errors, duplicates and missing values with Jupyter Notebook
-+ Insert the cleaned data into Tableu and start exploring the data by creating tables and graphs to visualise the results
-
-## My target variables
-
-+ 5 Top Publishers worldwide
-+ Best selling Genre on Platforms
-+ Most recommended videogames made by gamers by category
-+ Top EU videogames sold 
-+ Top Japan videogames sold 
-+ Top USA videogames sold 
-+ Genre by decade
-+ Publisher global sales by year (1980 - 2016)
 
 To conclude, for this analysis project is to identify future trends in the gaming industry and communicate those insights to stakeholders through an informative and powerful dashboard in Tableau. 
